@@ -15,6 +15,8 @@ This website is built on the WordPress platform using a theme as its foundation,
 
 As a native speaker of both English and French, I translated the site and implemented the language toggle functionality to ensure accessibility in both of Canada’s official languages. Users can switch between languages using the toggle in the top-right corner of the site.
 
+The website is fully responsive on all platforms (mobile, tablet, and desktop).
+
 ## Live site
 This live site can be accessed [here](https://askmegoalsofcare.com/).
 
