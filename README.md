@@ -11,7 +11,7 @@
 ## About
 This is a marketing website that I designed and developed for the ASKmeGOC web application during a 2024–2025 client project while working at Georgian College’s Research and Innovation department (RIE).
 
-The foundation of this website is WordPress, along with a Wordpress theme. It was then further customized using CSS and JavaScript. 
+This website is built on the WordPress platform using a theme as its foundation, with additional customization implemented through CSS and JavaScript.
 
 As a native speaker of both English and French, I translated the site and implemented the language toggle functionality to ensure accessibility in both of Canada’s official languages. Users can switch between languages using the toggle in the top-right corner of the site.
 
